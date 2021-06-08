@@ -1,5 +1,6 @@
 [![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://blog.csdn.net/qq_37668436)
 [![古月居](https://img.shields.io/badge/古月居-查看-pink)](https://www.guyuehome.com/author/6094a223c2403)
+[![bilibili](https://img.shields.io/badge/bilibili-查看-pink)](https://space.bilibili.com/59959565)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Keep going!</b></em>
