@@ -1,4 +1,4 @@
-[![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://blog.csdn.net/qq_37668436)
+[![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://xmy0916.blog.csdn.net/)
 [![古月居](https://img.shields.io/badge/古月居-查看-pink)](https://www.guyuehome.com/author/617f94efb9da2)
 [![bilibili](https://img.shields.io/badge/bilibili-查看-yellow)](https://space.bilibili.com/59959565)
 
